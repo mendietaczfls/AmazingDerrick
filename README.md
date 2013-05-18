@@ -1,0 +1,4 @@
+AmazingDerrick
+==============
+
+AI homework
